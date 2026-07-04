@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Keep this file
+!.gitignore
+
+# Keep Python files you want
+!use_of_gemini_api.py
+!use_of_open_ai_api.py
