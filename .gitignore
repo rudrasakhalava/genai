@@ -9,3 +9,5 @@
 !use_of_gemini_api.py
 !use_of_open_ai_api.py
 !1_simple_chatbot.py
+!use_of_gemini_api_streaming.py
+!use_of_open_ai_api_streaming.py
