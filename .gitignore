@@ -5,6 +5,7 @@
 # Keep this file
 !.gitignore
 
-# Keep Python files you want
+# Keep Python files 
 !use_of_gemini_api.py
 !use_of_open_ai_api.py
+!1_simple_chatbot.py
