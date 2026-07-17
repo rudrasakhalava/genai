@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length_input",
+        "paper_input",
+        "style_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "please summarize the topic titled :: {paper_input} with following specification,Explanation length : {length_input} and Explanation style : {style_input}. here Explanation length short means in 3-4 lines.",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
